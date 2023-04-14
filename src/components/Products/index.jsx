@@ -40,7 +40,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-1.png" alt="" />
                 <h3>fresh orange</h3>
-                <div className="price">$200 Rs/ -- 260 Rs/-</div>
+                <div className="price">200 Rs/ -- 260 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -91,7 +91,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-4.png" alt="" />
                 <h3>fresh cabage</h3>
-                <div className="price">$26 Rs/ -- 30 Rs/-</div>
+                <div className="price">26 Rs/ -- 30 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />

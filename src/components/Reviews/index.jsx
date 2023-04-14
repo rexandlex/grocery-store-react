@@ -39,12 +39,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-1.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Good services the delivery Was Very Fast And the Fruits were Fresh.
               </p>
-              <h3>john deo</h3>
+              <h3>Raj Kumar</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -58,12 +55,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-2.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                The Cheese Was very delicious And there were Variety of It on the Site.
               </p>
-              <h3>john deo</h3>
+              <h3>Ravi Shankar </h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -77,12 +71,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-3.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Payment was Done Very Fast and the process was very Easy.
               </p>
-              <h3>john deo</h3>
+              <h3>Ria Rastogi</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
@@ -96,12 +87,9 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-4.png" alt="" />
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis
-                maxime inventore illo nemo cupiditate quam eligendi nihil sunt
-                ullam, laudantium, earum in nam provident quaerat
-                exercitationem?
+                Fresh Items At at Resonable price, And on time delivery all Free of cost.
               </p>
-              <h3>john deo</h3>
+              <h3>Ritica Singhal</h3>
               <div className="stars">
                 <FontAwesomeIcon icon={faStar} />
                 <FontAwesomeIcon icon={faStar} />
