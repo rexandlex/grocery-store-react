@@ -14,28 +14,28 @@ export default function Categories() {
         <div className="box">
           <img src="image/cat-1.png" alt="" />
           <h3>vegetables</h3>
-          <p>upto 45% off</p>
+          <p>upto 35% off</p>
           <button type="button" className="btn">shop now</button>
         </div>
 
         <div className="box">
           <img src="image/cat-2.png" alt="" />
           <h3>fresh fruits</h3>
-          <p>upto 45% off</p>
+          <p>upto 25% off</p>
           <button type="button" className="btn">shop now</button>
         </div>
 
         <div className="box">
           <img src="image/cat-3.png" alt="" />
           <h3>dairy products</h3>
-          <p>upto 45% off</p>
+          <p>upto 25% off</p>
           <button type="button" className="btn">shop now</button>
         </div>
 
         <div className="box">
           <img src="image/cat-4.png" alt="" />
-          <h3>freshh meat</h3>
-          <p>upto 45% off</p>
+          <h3>fresh meat</h3>
+          <p>upto 15% off</p>
           <button type="button" className="btn">shop now</button>
         </div>
       </div>

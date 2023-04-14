@@ -12,7 +12,7 @@ export default function SearchForm(props) {
     <>
       <form action="" className={`search-form ${active ? 'active' : ''}`}>
         <label htmlFor="search-box">
-          <input type="search" placeholder="search here..." id="search-box" />
+          <input type="Search" placeholder="Search..." id="search-box" />
           <FontAwesomeIcon className="search-icon" icon={faSearch} />
         </label>
       </form>

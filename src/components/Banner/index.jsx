@@ -22,7 +22,7 @@ export default function Banner() {
           products
         </h3>
         <p>
-          Grosary for all those who live nearby .
+          grocery for all those who wish for a healthy life.
         </p>
         <button type="button" className="btn">
           shop now

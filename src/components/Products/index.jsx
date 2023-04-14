@@ -40,7 +40,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-1.png" alt="" />
                 <h3>fresh orange</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">$200 Rs/ -- 260 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -57,7 +57,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-2.png" alt="" />
                 <h3>fresh onion</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">78 Rs/ -- 100 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -74,7 +74,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-3.png" alt="" />
                 <h3>fresh meat</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">480 Rs/ -- 590 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -91,7 +91,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-4.png" alt="" />
                 <h3>fresh cabage</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">$26 Rs/ -- 30 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -132,7 +132,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-5.png" alt="" />
                 <h3>fresh potato</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">20 Rs/ -- 30 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -149,7 +149,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-6.png" alt="" />
                 <h3>fresh avocado</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">400 Rs/ -- 600 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -166,7 +166,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-7.png" alt="" />
                 <h3>fresh carrot</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">27 Rs/ -- 40 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />
@@ -183,7 +183,7 @@ export default function Products() {
               <div className="box">
                 <img src="image/product-8.png" alt="" />
                 <h3>green lemon</h3>
-                <div className="price">$4.99/ -- 10.99/-</div>
+                <div className="price">50 Rs/ -- 100 Rs/-</div>
                 <div className="stars">
                   <FontAwesomeIcon icon={faStar} />
                   <FontAwesomeIcon icon={faStar} />

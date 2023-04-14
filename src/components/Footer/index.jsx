@@ -22,14 +22,13 @@ export default function Footer() {
         <div className="box">
           <FontAwesomeIcon icon={['fas', 'faUser']} />
           <h3>
-            groco
+            Gmart
             <i>
               <FontAwesomeIcon icon={faShoppingBasket} />
             </i>
           </h3>
           <p>
-            Lorem, Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Natus,
-            Laudantium?
+            Gmart provide a Variety of Products For All its Customers throughout Indian.
           </p>
           <div className="share">
             <a href="/">
@@ -60,25 +59,25 @@ export default function Footer() {
             <i>
               <FontAwesomeIcon icon={faPhone} />
             </i>
-            +123 456 7890
+            +9258794360
           </a>
           <a href="/" className="links">
             <i>
               <FontAwesomeIcon icon={faPhone} />
             </i>
-            +111 222 3333
+            +9263897129
           </a>
           <a href="/" className="links" id="emailLink">
             <i>
               <FontAwesomeIcon icon={faEnvelope} />
             </i>
-            name@email.com
+            GmartIndia20@email.com
           </a>
           <a href="/" className="links">
             <i>
               <FontAwesomeIcon icon={faMapMarkerAlt} />
             </i>
-            pernambuco, brazil
+            Uttar Pradesh,India
           </a>
         </div>
         <div className="box">
@@ -123,7 +122,7 @@ export default function Footer() {
         <div className="box">
           <h3>newsletter</h3>
           <p>Subscribe For Latest Updates</p>
-          <input type="text" placeholder="your email" />
+          <input type="text" placeholder="your Email" />
           <button type="button" className="btn">
             subscribe
           </button>
@@ -134,7 +133,7 @@ export default function Footer() {
         <p>
           Created By
           {' '}
-          <span>Mr. Web Designer</span>
+          <span>Samyak Jain </span>
           {' '}
           | All Rights Reserved
         </p>

@@ -14,7 +14,7 @@ export default function ShoppingCart(props) {
         <img src="image/cart-img-1.png" alt="Product" />
         <div className="content">
           <h3>watermelon</h3>
-          <span className="price">$4.99</span>
+          <span className="price"> 55 Rs</span>
           <span className="quantity">qty: 1</span>
         </div>
       </div>
@@ -23,8 +23,8 @@ export default function ShoppingCart(props) {
         <img src="image/cart-img-2.png" alt="Product" />
         <div className="content">
           <h3>onion</h3>
-          <span className="price">$4.99</span>
-          <span className="quantity">qty: 1</span>
+          <span className="price">30 Rs</span>
+          <span className="quantity">qty: 10</span>
         </div>
       </div>
       <div className="box">
@@ -32,7 +32,7 @@ export default function ShoppingCart(props) {
         <img src="image/cart-img-3.png" alt="Product" />
         <div className="content">
           <h3>chicken</h3>
-          <span className="price">$4.99</span>
+          <span className="price">300 Rs</span>
           <span className="quantity">qty: 1</span>
         </div>
       </div>

@@ -21,19 +21,17 @@ export default function Blogs() {
                 <i>
                   <FontAwesomeIcon icon={faUser} />
                 </i>
-                by user
+                by Red
               </a>
               <a href="/">
                 <i>
                   <FontAwesomeIcon icon={faCalendar} />
                 </i>
-                1st May, 2021
+                2nd April, 2023
               </a>
             </div>
-            <h3>Fresh And Organic Vegetables And Fruits</h3>
-            <p>
-              Grosary for all those who live nearby .
-            </p>
+            <h3> Variety Of Products </h3>
+            <p>We support small-scale businesses, putting Indian products on the global market .</p>
             <a href="/" className="btn">
               read more
             </a>
@@ -47,19 +45,17 @@ export default function Blogs() {
                 <i>
                   <FontAwesomeIcon icon={faUser} />
                 </i>
-                by user
+                by Blue
               </a>
               <a href="/">
                 <i>
                   <FontAwesomeIcon icon={faCalendar} />
                 </i>
-                1st May, 2021
+                1st April, 2023
               </a>
             </div>
-            <h3>Fresh And Organic Vegetables And Fruits</h3>
-            <p>
-              Veniam, Expedita..
-            </p>
+            <h3>Organic Vegetables And Fruits</h3>
+            <p>All of our products are sustainable and contain minimal exposure to chemicals.</p>
             <a href="/" className="btn">
               read more
             </a>
@@ -73,19 +69,17 @@ export default function Blogs() {
                 <i>
                   <FontAwesomeIcon icon={faUser} />
                 </i>
-                by user
+                by Green
               </a>
               <a href="/">
                 <i>
                   <FontAwesomeIcon icon={faCalendar} />
                 </i>
-                1st May, 2021
+                3rd May, 2023
               </a>
             </div>
-            <h3>Fresh And Organic Vegetables And Fruits</h3>
-            <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
-            </p>
+            <h3>Eco-friendly</h3>
+            <p>The products are friendly to the environment & do not contain harmful pollutants.</p>
             <a href="/" className="btn">
               read more
             </a>
