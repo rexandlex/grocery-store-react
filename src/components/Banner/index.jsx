@@ -22,8 +22,7 @@ export default function Banner() {
           products
         </h3>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam
-          vitae perspiciatis neque soluta.
+          Grosary for all those who live nearby .
         </p>
         <button type="button" className="btn">
           shop now

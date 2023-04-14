@@ -32,7 +32,7 @@ export default function Blogs() {
             </div>
             <h3>Fresh And Organic Vegetables And Fruits</h3>
             <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
+              Grosary for all those who live nearby .
             </p>
             <a href="/" className="btn">
               read more
@@ -58,7 +58,7 @@ export default function Blogs() {
             </div>
             <h3>Fresh And Organic Vegetables And Fruits</h3>
             <p>
-              Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Veniam, Expedita.
+              Veniam, Expedita..
             </p>
             <a href="/" className="btn">
               read more
